@@ -1,50 +1,50 @@
 ---
-subtitle: "12,000+ Happy Customers"
-title: Customer Reviews
-description: Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br> Comprehensive Data Security.
+subtitle: "Nuestros Clientes Satisfechos"
+title: Opiniones de Nuestros Clientes
+description: Trabajamos con empresas y emprendedores de toda España. Nuestro trabajo de diseño web <br> traspasa fronteras con proyectos en múltiples países.
 
 # Testimonials
 list:
-  - name: "Michael Brown"
-    designation: "IT Director at HealthCare"
+  - name: "María González"
+    designation: "Propietaria de La Colada Lavandería"
     avatar: "/images/avatar/1.png"
     content: |
-      **Implementing this data security solution has been a game-changer for our company.**
+      **Crear mi página web con Artxeweb fue la mejor decisión para mi negocio.**
 
-      The real-time threat detection and automated response features have significantly reduced our risk exposure. We now feel more confident than ever about our data security posture.
-  - name: "Jane Smith"
-    designation: "CTO at Tech Innovators Inc."
+      Ahora mis clientes pueden encontrarme fácilmente en Google Maps y mi web carga súper rápido. Me enseñaron a gestionarla yo misma y el soporte es excelente.
+  - name: "Carlos Fernández"
+    designation: "CEO de MG Nutrition"
     avatar: "/images/avatar/2.jpg"
     content: |
-      **The granular access controls and detailed user activity tracking have given us unparalleled visibility.**
+      **El posicionamiento SEO que logramos con Artxeweb superó todas mis expectativas.**
 
-      The granular access controls and detailed user activity tracking have given us unparalleled visibility into our system's security. This platform has helped us maintain our data.
-  - name: "Marvin Brown"
-    designation: "COO at Financial Services Group"
+      En pocos meses pasamos de no aparecer en Google a estar en la primera página. La tienda online funciona perfectamente y las ventas han aumentado considerablemente.
+  - name: "Laura Martínez"
+    designation: "Directora de GFRP Consulting"
     avatar: "/images/avatar/3.jpg"
     content: |
-      **The comprehensive risk analysis and impact visualization tools are exceptional.**
+      **Profesionales, rápidos y muy atentos. Mi web corporativa quedó espectacular.**
 
-      The comprehensive risk analysis and impact visualization tools are exceptional. We can quickly identify and mitigate potential threats before they become serious issues.
-  - name: "Smith Lee"
-    designation: "IT Director at HealthCare"
+      El diseño del logo y la cartelería digital le dieron una imagen muy profesional a mi empresa. Totalmente recomendables para cualquier proyecto web.
+  - name: "Miguel Rodríguez"
+    designation: "Gerente de Foraje Puturi Pro"
     avatar: "/images/avatar/4.png"
     content: |
-      **Implementing this data security solution has been a game-changer for our company.**
+      **Necesitaba una web multilenguaje para expandir mi negocio internacionalmente.**
 
-      The real-time threat detection and automated response features have significantly reduced our risk exposure. We now feel more confident than ever about our data security posture.
-  - name: "Richard Lee"
-    designation: "CTO at Tech Innovators Inc."
+      Artxeweb me creó un sitio perfecto en español, rumano e inglés. Ahora tengo clientes en varios países y la gestión de la web es muy sencilla.
+  - name: "Ana López"
+    designation: "Fundadora de Invelia"
     avatar: "/images/avatar/5.png"
     content: |
-      **The granular access controls and detailed user activity tracking have given us unparalleled visibility.**
+      **La optimización para móviles y la velocidad de carga son impresionantes.**
 
-      The granular access controls and detailed user activity tracking have given us unparalleled visibility into our system's security. This platform has helped us maintain our data.
-  - name: "David Thompson"
-    designation: "COO at Financial Services Group"
+      Mi página web se ve perfecta en cualquier dispositivo y carga en menos de 2 segundos. El posicionamiento en redes sociales también mejoró notablemente.
+  - name: "Jorge Sánchez"
+    designation: "Director de Nexir Technologies"
     avatar: "/images/avatar/6.png"
     content: |
-      **The comprehensive risk analysis and impact visualization tools are exceptional.**
+      **El servicio integral de Artxeweb abarca todo lo que necesitas para estar online.**
 
-      The comprehensive risk analysis and impact visualization tools are exceptional. We can quickly identify and mitigate potential threats before they become serious issues.
+      Desde el diseño web hasta el correo corporativo y el posicionamiento SEO. Un equipo profesional que realmente entiende lo que las empresas necesitan.
 ---

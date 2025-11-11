@@ -1,21 +1,21 @@
 ---
-subtitle: "Key Features"
-title: "In-Depth Explanation of Our Web Security Features"
-description: Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br> Comprehensive Data Security.
+subtitle: "Características Principales"
+title: "Páginas Web al Mejor Precio y Calidad"
+description: Nuestras páginas web son 100% optimizadas para Google. Te ofrecemos <br> diseño web profesional, rápido y seguro.
 list:
-  - title: "Continuously evaluates potential security threats and impact"
-    description: "This includes suggesting security patches, policy updates, and other preventive measures to reduce the likelihood and impact of threats."
+  - title: "Diseño web optimizado para buscadores"
+    description: "Creamos páginas web con las mejores técnicas de posicionamiento SEO para que aparezcas en los primeros resultados de búsqueda."
     image: "/images/features/1.png"
 
-  - title: "Presents a view of your organization security posture"
-    description: "Allows you to set thresholds for security parameters and receive real-time alerts when these thresholds are breached ensuring you stay informed of critical events."
+  - title: "Páginas web rápidas y seguras"
+    description: "Desarrollamos sitios web con carga ultrarrápida, certificado de seguridad y adaptados a todos los dispositivos móviles y tablets."
     image: "/images/features/2.png"
 
-  - title: "Monitors and logs all the data access events"
-    description: "Monitors and logs all data access events, including who accessed what data, when, and from where. This provides a clear audit trail for compliance and security investigations."
+  - title: "Gestión 100% autónoma de tu web"
+    description: "Te enseñamos a administrar tu página web para que seas completamente independiente. Tú tienes el control total de tu sitio."
     image: "/images/features/3.png"
     button:
       enable: true
-      label: "Learn More"
+      label: "Ver Más"
       link: "/features/"
 ---

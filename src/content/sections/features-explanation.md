@@ -1,22 +1,22 @@
 ---
-subtitle: "Features Explained"
-title: "Interactive Chart Displays Key Metrics and Trends."
-description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions <br> for Comprehensive Data Security."
+subtitle: "¿Por Qué Elegirnos?"
+title: "Agencia de Diseño Web con Resultados Garantizados"
+description: "Ponemos todo de nuestra parte para ofrecer páginas web muy baratas <br> con un rendimiento increíble y posicionamiento SEO profesional."
 image: "/images/features/product.png"
 list:
   - row:
-      - title: "Security Status Indicator"
-        description: "Displays the current security status of your organization with a clear color-coded indicator."
-      - title: "User Activity Monitoring"
-        description: "Highlights the most frequently accessed sensitive files or databases and the users involved, ensuring transparency and control over critical data."
+      - title: "Diseño y Optimización Web"
+        description: "Creamos páginas web optimizadas 100% para Google con las mejores técnicas de posicionamiento SEO."
+      - title: "Mejora tu Posición en Google"
+        description: "Utilizamos estrategias avanzadas de SEO para que aparezcas en los primeros resultados de búsqueda."
   - row:
-      - title: "Threat Landscape Overview"
-        description: "Breaks down the threats by type (e.g., phishing, malware, ransomware) to give a detailed overview of the threat landscape."
-      - title: "Data Access Monitoring"
-        description: "Highlights the most frequently accessed sensitive files or databases and the users involved."
+      - title: "Webs Rápidas y Seguras"
+        description: "Nuestras páginas web cargan ultrarrápido e incluyen certificado de seguridad SSL."
+      - title: "Gestión Autónoma"
+        description: "Te enseñamos a administrar tu web para que seas completamente independiente."
   - row:
-      - title: "Incident Management"
-        description: "Lists the number of active security incidents currently being addressed."
-      - title: "Compliance Monitoring"
-        description: "Our system continuously monitors your network and data environments for any suspicious activities."
+      - title: "Presupuesto Personalizado"
+        description: "Ofrecemos presupuestos totalmente a medida para cada proyecto y necesidad."
+      - title: "Soporte Profesional"
+        description: "Te acompañamos en todo el proceso desde el diseño hasta el lanzamiento de tu web."
 ---

@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Secure Your Data with SecureTrustCyber Protection Solution"
+title: "¿Necesitas un Presupuesto de Diseño Web?"
 image: "/images/cta-bg.svg"
-description: "Allows you to set thresholds for security parameters and receive real-time alerts when these thresholds are breached."
+description: "Ofrecemos presupuestos totalmente personalizados para cada proyecto. Cuéntanos tu idea y trabajaremos juntos para crear la web que siempre has querido."
 button:
   enable: true
-  label: "Get Started"
+  label: "Solicitar Presupuesto Gratis"
   link: "/contact/"
 ---

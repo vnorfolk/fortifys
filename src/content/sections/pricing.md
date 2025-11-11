@@ -1,56 +1,61 @@
 ---
-subtitle: "Pricing & Plan"
-title: "Choose a suitable plan"
-description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br> Comprehensive Data Security."
+subtitle: "Nuestros Precios"
+title: "Elige el plan que mejor se adapte a tus necesidades"
+description: "Planes de diseño web y posicionamiento SEO con precios adaptados a cada cliente. <br> El coste anual es gratis el primer año en todos los planes."
 
 plans_labels:
-  - "Monthly"
-  - "Yearly"
+  - "Pago único"
+  - "Con mantenimiento"
 plans:
-  - title: "Basic Plan"
-    description: "Ideal for small businesses or individuals looking to secure their data with fundamental protection features."
-    price_prefix: "$"
-    price_monthly: "29"
-    price_yearly: "129"
-    price_description_monthly: "per month, billed monthly"
-    price_description_yearly: "per month, billed yearly"
+  - title: "Web Básica"
+    description: "Ideal para pequeños negocios o emprendedores que necesitan presencia online con características fundamentales."
+    price_prefix: ""
+    price_monthly: "349€"
+    price_yearly: "349€"
+    price_description_monthly: "+ IVA (antes 499€)"
+    price_description_yearly: "+ 250€/año + IVA (gratis 1er año)"
     features:
-      - "Firewall-as-a-Service (FWaaS)"
-      - "Secure Web Gateway (SWG)"
-      - "Intrusion Prevention System (IPS)"
-      - "DNS Security (DNS)"
-      - "Remote Browser Isolation (RBI)"
-      - "Cloud Access Security Broker (CASB)"
-      - "Data Loss Prevention (DLP)"
-      - "Zero Trust Network Access (ZTNA)"
-      - "AI Security (AISEC)"
-      - "Extended Detection and Response (XDR)"
-      - "Endpoint Protection (EPP/EDR)"
+      - "Página web sencilla"
+      - "Hasta 3 páginas simples"
+      - "Posicionamiento Básico"
+      - "Logo simple no modificable"
+      - "Adaptada a móviles"
+      - "Certificado de seguridad"
+      - "Optimización básica SEO"
+      - "Diseño responsive"
+      - "Formulario de contacto"
+      - "Soporte por email"
+      - "Panel de administración"
     badge:
       enable: false
-      label: "Recommended"
+      label: "Recomendado"
     button:
       enable: true
-      label: "Select Basic Plan"
+      label: "Elegir Plan Básico"
       link: "/contact/"
-  - title: "Premium Plan"
-    description: "Perfect for medium to large businesses requiring security features and priority support."
-    price_prefix: "$"
-    price_monthly: "99"
-    price_yearly: "199"
-    price_description_monthly: "per month, billed monthly"
-    price_description_yearly: "per month, billed yearly"
+  - title: "Web Profesional"
+    description: "Perfecto para empresas medianas que requieren funcionalidades avanzadas y posicionamiento profesional."
+    price_prefix: ""
+    price_monthly: "949€"
+    price_yearly: "949€"
+    price_description_monthly: "+ IVA (antes 1.249€)"
+    price_description_yearly: "+ 250€/año + IVA (gratis 1er año)"
     features:
-      - Advanced Threat Detection and Remediation
-      - Real-Time Alerts and Reporting
-      - Continuous Data Backup and Restore
-      - 24/7 Priority Support
-      - Multi-User Licenses (Up to 10 Users)
+      - "Página web optimizada"
+      - "Hasta 8 páginas optimizadas"
+      - "Posicionamiento Profesional SEO"
+      - "Logo y cartelería digital"
+      - "Perfil Google Maps Básico"
+      - "Optimización avanzada SEO"
+      - "Blog o sección noticias"
+      - "Integración redes sociales"
+      - "Correo corporativo (1 cuenta)"
+      - "Soporte prioritario"
     badge:
       enable: true
-      label: "Recommended"
+      label: "Recomendado"
     button:
       enable: true
-      label: "Select Premium Plan"
+      label: "Elegir Plan Profesional"
       link: "/contact/"
 ---

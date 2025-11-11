@@ -1,15 +1,15 @@
 ---
-subtitle: "How it Works"
-title: "How SecureTrustCyber Security Solution Works"
-description: Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br> Comprehensive Data Security.
+subtitle: "Nuestros Servicios"
+title: "¿Qué ofrecemos en Artxeweb?"
+description: Especialistas en diseño web, SEO y desarrollo. Creamos páginas web optimizadas <br> para posicionar en los principales buscadores.
 list:
-  - icon: "/images/icons/svg/detection.svg" # get outline svg icons from here - https://www.svgrepo.com/vectors/security/outlined/
-    title: "Advanced Detection"
-    description: Our system continuously monitors your network and data environments for any suspicious activities.
-  - icon: "/images/icons/svg/encryption.svg" # get outline svg icons from here - https://www.svgrepo.com/vectors/security/outlined/
-    title: "Robust Data Encryption"
-    description: We ensure that all sensitive data is encrypted and at rest, using industry-standard encryption protocols.
-  - icon: "/images/icons/svg/time.svg" # get outline svg icons from here - https://www.svgrepo.com/vectors/security/outlined/
-    title: "Automated Response"
-    description: In the event of a security incident, our automated response system takes immediate action.
+  - icon: "/images/icons/svg/detection.svg"
+    title: "Diseño Web Profesional"
+    description: Creamos tu sitio web a tu gusto y te enseñamos a administrarlo para que seas 100% independiente.
+  - icon: "/images/icons/svg/encryption.svg"
+    title: "Posicionamiento SEO"
+    description: Conocemos las mejores técnicas para posicionar tu web en Google, Bing, Yahoo y otros buscadores.
+  - icon: "/images/icons/svg/time.svg"
+    title: "Desarrollo Web Optimizado"
+    description: Páginas web rápidas, seguras y fáciles de gestionar. ¡Serás el dueño al 100% de tu página web!
 ---
